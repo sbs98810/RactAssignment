@@ -1,3 +1,4 @@
+//this file for gallary compo.
 import WSPGallery from './gallarycomponent/WSPGallery';
 
 
